@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogo de productos</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+
+    <div class="swiper-slide">
+        <div class="icons">
+            <i class="fa-solid fa-circle-arrow-left"></i>
+            <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+            <i class="fa-regular fa-heart"></i>
+          </div>
+              <div class="product-content">
+                <div class="product-txt">
+                    <span>$8.50</span>
+                    <h3>Moldura para techo </h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                         soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                         dolores ab dignissimos.
+                        </p>
+                </div>
+                <div class="product-img">
+                    <img src="imagenes catalogo/img.1.jpg" alt="">         
+                </div>
+              </div>
+              <div>
+                <a href="#" class="btn-1">Comprar</a>
+              </div>
+       </div>
+         
+    <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.2.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.3.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.4.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.5.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.6.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.7.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.8.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.9.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.10.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.11.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.12.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.13.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.14.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="icons">
+          <i class="fa-solid fa-circle-arrow-left"></i>
+          <img src="imagenes catalogo/lg.imagen.11.jpg" alt="">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+            <div class="product-content">
+              <div class="product-txt">
+                  <span>$8.50</span>
+                  <h3>Moldura para techo </h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                      Reprehenderit non earum saepe voluptates minus nisi at necessitatibus pariatur
+                       soluta perferendis, accusamus nemo magni, cupiditate ipsum deserunt veritatis 
+                       dolores ab dignissimos.
+                      </p>
+              </div>
+              <div class="product-img">
+                  <img src="imagenes catalogo/img.15.jpg" alt="">         
+              </div>
+            </div>
+            <div>
+              <a href="#" class="btn-1">Comprar</a>
+            </div>
+     </div>
+         
+       
+     </div>
+</div>
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+  var swiper = new Swiper(".mySwiper",{
+    effect: "coverflow",
+   grabCursor: true,
+centeredSlides: true,
+slidesPerView: "auto",
+loop: true,
+coverflowEffect:{
+depth:500,
+modifer:1,
+slidesShadows:true,
+rotate:0,
+stretch:0,
+
+}
+})
+
+
+    </script>
+</body>
+</html>
